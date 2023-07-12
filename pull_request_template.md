@@ -1,11 +1,6 @@
-If you are adding a new RPC, please answer the following questions.
-
-#### Link the service provider's website (the company/protocol/individual providing the RPC):
-
-
-#### Provide a link to your privacy policy:
-
-
-#### If the RPC has none of the above and you still think it should be added, please explain why:
-
-Your RPC should always be added at the end of the array.
+https://filecoin.chainup.net/rpc/v1
+https://filecoin-mainnet.chainstacklabs.com/rpc/v1
+https://api.node.glif.io
+https://rpc.ankr.com/filecoin
+https://api.chain.love/rpc/v1
+https://infura.sftproject.io/filecoin/rpc/v
